@@ -19,3 +19,4 @@ PaperPilot accelerates research productivity, promotes inclusivity, and delivers
 
 **Transform your research workflow with PaperPilot!**
 take your research to the next level
+Testing Pair achievement from local git
