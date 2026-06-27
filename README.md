@@ -18,4 +18,4 @@ PaperPilot accelerates research productivity, promotes inclusivity, and delivers
 ---
 
 **Transform your research workflow with PaperPilot!**
-Made with Gitactions
+take your research to the next level
